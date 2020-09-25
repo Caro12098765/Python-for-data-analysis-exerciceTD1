@@ -23,7 +23,7 @@ count, head, tail, describe, columns, dtypes
 ### 3 plots
 - Quelles sont les 5 plateformes les plus utilisées pour poster un tweet ?
 - Quels sont les 5 utilisateurs teweetant le plus ?
-- Total of verified users per location
+- Total d'utilisateurs vérifiés par emplacement
 
 ## ANALYSE SUPPLEMENTAIRE
 - Emplacement du plus grand nombre l'utilisateurs postant des tweets
